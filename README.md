@@ -4,9 +4,9 @@ A simple package using github as hosting
 
 ## How to use:
 
-1. Create a .npmrc file with: 
+1. Create a `.npmrc` file with: 
 ```
-npm login --scope=@alexsandro-bcp --auth-type=legacy --registry=https://npm.pkg.github.com
+@alexsandro-bcp:registry=https://npm.pkg.github.com
 ```
 
 2. Generate a [personal token on GitHub](https://github.com/settings/tokens)
