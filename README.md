@@ -14,5 +14,5 @@ A simple package using github as hosting
 3. Install package | [versions](https://github.com/alexsandro-bcp/utils-pkg/pkgs/npm/utils-pkg)
 
 ```
-npm install npm install @alexsandro-bcp/utils-pkg@<version>`
+npm install @alexsandro-bcp/utils-pkg@<version>`
 ```
